@@ -1,0 +1,40 @@
+body{
+    background-color:rgba(0, 0, 0, 0.751);
+    justify-content: center;
+    text-align: center;
+}
+.heading{
+    margin-top: 5%;
+}
+h1{
+    color:rgb(177, 240, 51); 
+    letter-spacing: 0.5px;   
+}
+p{
+    color: rgb(246, 241, 241);
+    font-size: 20px;
+    letter-spacing: 0.5px;
+}
+label{
+    color: rgb(246, 241, 241);
+    font-size: 40px;
+    letter-spacing: 0.5px;
+}
+.guessField{
+    height: 30px;
+    width: 220px;
+    border-radius: 10px;
+    border: 2px solid orange;
+}
+.submit-btn{
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(7, 13, 0);
+    font-size: 18px;
+    font-weight: 500;
+    color: #fff;
+    border: solid 1px orange;
+    border-radius: 10px;
+    padding: 10px 20px;
+    letter-spacing: 0.5px;
+}

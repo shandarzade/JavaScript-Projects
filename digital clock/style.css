@@ -1,0 +1,31 @@
+body{
+    background-color:rgba(0, 0, 0, 0.751);
+    justify-content: center;
+    text-align: center;
+}
+.heading{
+    margin-top: 5%;
+}
+h1{
+    color:rgb(177, 240, 51); 
+    letter-spacing: 0.5px;   
+}
+#banner{
+    color:rgb(243, 244, 240); 
+    letter-spacing: 0.5px; 
+    font-size: 20px;
+}
+/* .center{
+    text-align: center !important;
+    justify-content: center !important;
+} */
+.clock{
+    width: 15%;
+    margin: 2% 42%;
+    padding: 20px 10px;
+    background-color: rgb(228, 238, 88);
+    border-radius: 10px;
+    font-size: 24px;
+    font-weight: 600;
+    color: rgb(26, 0, 64);
+}
